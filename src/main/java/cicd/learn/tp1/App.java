@@ -2,7 +2,7 @@ package cicd.learn.tp1;
 
 /**
  * Hello world!
- *
+ * v2
  */
 public class App 
 {
